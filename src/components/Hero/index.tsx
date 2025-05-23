@@ -14,7 +14,7 @@ import { Icon } from '@iconify/react'
 
 import styles from './styles.module.scss'
 
-import video from '../../../static/video/数据挖掘.mp4'
+import video from '../../../static/video/HYIP介绍.mp4'
 
 function Hero() {
   const trails = useTrail(4, {
@@ -75,14 +75,14 @@ function Hero() {
     <animated.div className={styles.hero}>
       <div className={styles.bloghome__intro}>
         <animated.div style={trails[0]} className={styles.hero_text}>
-          <Translate id="homepage.hero.greet">你好! 我是</Translate>
+          <Translate id="homepage.hero.greet">你好！我是</Translate>
           <span className={styles.intro__name}>
-            <Translate id="homepage.hero.name">资源挖掘博客</Translate>
+            <Translate id="homepage.hero.name">HYIP博客</Translate>
           </span>
         </animated.div>
         <animated.p style={trails[1]}>
           <Translate id="homepage.hero.text">
-            {`有很多资源都各种套路收费，对于囊中羞涩的伙伴来说能免费的最好，这里免费分享各种资源。`}
+            {`HYIP高收益投资！高收益高风险，投资需谨慎。`}
           </Translate>
           <br />
           <br />
@@ -90,31 +90,27 @@ function Hero() {
             id="homepage.hero.look"
             values={{
               note: (
-                <Link to="docs/赚钱资源/赚钱资源-intro">
-                  <Translate id="hompage.hero.note">赚钱资源</Translate>
+                <Link to="docs/新人必看/新人必看-intro">
+                  <Translate id="hompage.hero.note">新人必看</Translate>
                 </Link>
               ),
               project: (
-                <Link to="docs/营销专区/营销专区-intro">
-                  <Translate id="hompage.hero.project">营销资源</Translate>
+                <Link to="docs/投资项目/优质项目/aitimart">
+                  <Translate id="hompage.hero.project">投资项目</Translate>
                 </Link>
               ),
               link: (
-                <Link to="docs/学习专区/学习专区-intro">
-                  <Translate id="hompage.hero.link">学习资源</Translate>
+                <Link to="docs/VPN软件/艾林克">
+                  <Translate id="hompage.hero.link">VPN软件</Translate>
                 </Link>
               ),
-              idea: (
-                <Link to="docs/办公专区/办公专区-intro">
-                  <Translate id="hompage.hero.idea">办公资源</Translate>
-                </Link>
-              ),
+              
             }}
           >
             {`你可以随处逛逛，查看{note}、{project}、{link}。`}
           </Translate>
         </animated.p>
-        <SocialLinks style={trails[2]} />
+        
         <animated.div style={trails[3]}>
           <a className={styles.intro} href={'./about'}>
             <Translate id="hompage.hero.introduce">自我介绍</Translate>

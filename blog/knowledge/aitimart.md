@@ -1,10 +1,10 @@
 ---
 slug: aitimart
 title: aitimart
-date: 2024-09-24
+date: 2025-06-23
 author: hyip
-author_title: 资源挖掘博客
-author_image_url: https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg
+author_title: HYIP博客
+author_image_url: https://pic1.imgdb.cn/item/682fe04f58cb8da5c808a653.jpg
 tags: [hyip, 高收益投资]
 keywords: [hyip, 高收益投资 ]
 ---
@@ -21,8 +21,8 @@ keywords: [hyip, 高收益投资 ]
 6. 预期盈利能力 - 每月 30% 起
 
 
-### [注册Aitimart](https://aitimart.com/new-account/?code=1344696906597400)
-#### [注册链接(点击我)](https://aitimart.com/new-account/?code=1344696906597400)
+### [注册Aitimart](https://aitimart.live/new-account/?code=1344696906597400)
+#### [注册链接(点击我)](https://aitimart.live/new-account/?code=1344696906597400)
 1. 电脑版
 ![](https://pic.imgdb.cn/item/66f1ee4df21886ccc0410538.jpg)
 ![](https://pic.imgdb.cn/item/66f1fe9df21886ccc049ce01.jpg)

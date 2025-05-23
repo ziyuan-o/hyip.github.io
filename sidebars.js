@@ -9,32 +9,27 @@
  */
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
-  办公软件:{
-    前言: ["办公专区/办公专区-intro"]
-  },
-  赚钱资源:{
-    前言: ["赚钱资源/赚钱资源-intro"],
-    高收益项目HTIP: ["赚钱资源/hyip/hyip-intro",
-                    "赚钱资源/hyip/GoogleAuthenticator",
-                    "赚钱资源/hyip/Googleplay",
-                    "赚钱资源/hyip/aitimart"
+  新人必看:{
+    前言: ["新人必看/新人必看-intro",
+           "新人必看/从哪里开始",
+           "新人必看/常见问题",
+           "新人必看/投资词典",
+           "新人必看/投资的金科玉律"
     ]
+  },
+  投资项目:{
+    优质项目: ["投资项目/优质项目/aitimart"],
+    
     
   },
-  学习专区:{
-    前言: ["学习专区/学习专区-intro"
+  VPN软件:{
+    VPN: ["VPN软件/艾林克"
     ]
     
     
 
   },
-  营销专区:{
-    前言: ["营销专区/营销专区-intro"]
-  },
-  休闲专区:{
-    前言: ["休闲专区/休闲专区-intro"],
-    vip视频解析: ["休闲专区/vip-video"]
-  },
+  
 
 }
 

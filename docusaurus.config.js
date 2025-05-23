@@ -3,17 +3,17 @@ const path = require('path')
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   onBrokenLinks: 'ignore',
-  title: '资源挖掘博客',
+  title: 'HYIP博客',
   titleDelimiter: '-',
   url: 'http://www.zy-wan.top',
   baseUrl: '/',
-  favicon: 'https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg',
+  favicon: 'https://pic1.imgdb.cn/item/682fe04f58cb8da5c808a653.jpg',
   organizationName: 'jl',
   projectName: 'blog',
-  tagline: '挖掘数据爱好者',
+  tagline: '投资爱好者',
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
-    image: 'https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg',
+    image: 'https://pic1.imgdb.cn/item/682fe04f58cb8da5c808a653.jpg',
     colorMode: {
       defaultMode: 'dark',
       disableSwitch: false,
@@ -22,12 +22,12 @@ const config = {
     metadata: [
       {
         name: 'keywords',
-        content: '资源挖掘博客',
+        content: 'HYIP博客',
       },
       
       {
         name: 'keywords',
-        content: '挖掘数据爱好者',
+        content: '投资爱好者',
       },
     ],
     docs: {
@@ -36,11 +36,11 @@ const config = {
       },
     },
     navbar: {
-      title: '资源挖掘博客',
+      title: 'HYIP博客',
       logo: {
-        alt: '资源挖掘博客',
-        src: 'https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg',
-        srcDark: 'https://pic.imgdb.cn/item/66cba8a2d9c307b7e9af4e79.jpg',
+        alt: 'HYIP博客',
+        src: 'https://pic1.imgdb.cn/item/682fe04f58cb8da5c808a653.jpg',
+        srcDark: 'https://pic1.imgdb.cn/item/682fe04f58cb8da5c808a653.jpg',
       },
       hideOnScroll: true,
       items: [
@@ -50,32 +50,22 @@ const config = {
           position: 'right',
         },
         {
-          to: "docs/赚钱资源/赚钱资源-intro",
-          label: "赚钱资源",
-          position: "right",
-    
-        },
-        {
-          to: "docs/营销专区/营销专区-intro",
-          label: "营销专区",
+          to: "docs/新人必看/新人必看-intro",
+          label: "新人必看",
           position: "right",
          
         },
         {
-          to: "docs/学习专区/学习专区-intro",
-          label: "学习专区",
+          to: "docs/投资项目/优质项目/aitimart",
+          label: "投资项目",
           position: "right",
         },
         {
-          to: "docs/办公专区/办公专区-intro",
-          label: "办公软件",
+          to: "docs/VPN软件/艾林克",
+          label: "VPN软件",
           position: "right",
         },
-        {
-          to: "docs/休闲专区/休闲专区-intro",
-          label: "休闲专区",
-          position: "right",
-        },
+        
       ],
     },
     footer: {
@@ -83,58 +73,59 @@ const config = {
       links: [
         
         {
-          title: '赚钱资源',
+          title: '新人必看',
           items: [
             {
-              label: '赚钱资源',
-              to: 'docs/赚钱资源/赚钱资源-intro',
-            }
+              label: '常见问题',
+              to: 'docs/新人必看/常见问题',
+            },
+            {
+              label: '从哪里开始',
+              to: 'docs/新人必看/从哪里开始',
+            },
+            {
+              label: '投资词典',
+              to: 'docs/新人必看/投资词典',
+            },
+            {
+              label: '投资的金科玉律',
+              to: 'docs/新人必看/投资的金科玉律',
+            },
           ]
         },
         {
-          title: '营销专区',
+          title: '投资项目',
           items: [
             {
-              label: '营销专区',
-              to: 'docs/营销专区/营销专区-intro',
+              label: '优质项目',
+              to: 'docs/投资项目/优质项目/aitimart',
             }
            
             
           ],
         },
         {
-          title: '学习专区',
+          title: 'VPN软件',
           items: [
             {
-              label: '学习专区',
-              to: 'docs/学习专区/学习专区-intro',
+              label: 'VPN',
+              to: 'docs/VPN软件/艾林克',
             }
           ],
         },
-        {
-          title: '办公专区',
-          items: [
-            {
-              label: '办公软件',
-              to: 'docs/办公专区/办公专区-intro',
-            }
-           
-          ],
-        },
-        
         {
           title: '联系博客',
           items: [
             {
-              label: 'QQ群:733580353',
+              label: 'QQ群:1035024431',
               to: '/',
             },
             {
-              label: 'QQ:3812263050',
+              label: 'QQ:3975759714',
               to: '/',
             },
             {
-              label: '微信公众号:资源整集',
+              label: 'QQ频道:pd14273801',
               to: '/',
             },
            
@@ -151,7 +142,7 @@ const config = {
           ],
         },
       ],
-      copyright:  `Copyright © ${new Date().getFullYear()} 资源挖掘博客<p><a href="/" class="footer_lin">都是网上收集的资源，如有侵权联系博主删除！</a></p>`,
+      copyright:  `Copyright © ${new Date().getFullYear()} HYIP博客<p><a href="/" class="footer_lin">都是网上收集的资源，如有侵权联系博主删除！</a></p>`,
     },
     prism: {
       theme: require('prism-react-renderer/themes/vsLight'),
@@ -219,7 +210,7 @@ const config = {
       tagName: 'meta',
       attributes: {
         name: 'description',
-        content: '资源挖掘博客',
+        content: 'HYIP博客',
       },
     },
   ],
@@ -263,7 +254,7 @@ const config = {
         editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
           `https://github.com/xiaojunnanya/blog`,
         editLocalizedFiles: false,
-        blogDescription: '资源挖掘博客',
+        blogDescription: 'HYIP博客',
         blogSidebarCount: 10,
         blogSidebarTitle: '最近更新',
         postsPerPage: 10,
@@ -272,8 +263,8 @@ const config = {
           defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
         feedOptions: {
           type: 'all',
-          title: '资源挖掘博客',
-          copyright: `Copyright © ${new Date().getFullYear()} 资源挖掘博客<p><a href="/" class="footer_lin">暂无</a></p>`,
+          title: 'HYIP博客',
+          copyright: `Copyright © ${new Date().getFullYear()} HYIP博客<p><a href="/" class="footer_lin">暂无</a></p>`,
         },
       },
     ],
