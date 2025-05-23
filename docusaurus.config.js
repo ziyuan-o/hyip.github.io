@@ -61,6 +61,11 @@ const config = {
           position: "right",
         },
         {
+          to: "docs/钱包/火币",
+          label: "钱包",
+          position: "right",
+        },
+        {
           to: "docs/VPN软件/艾林克",
           label: "VPN软件",
           position: "right",
@@ -108,8 +113,12 @@ const config = {
           title: 'VPN软件',
           items: [
             {
-              label: 'VPN',
+              label: '艾林克',
               to: 'docs/VPN软件/艾林克',
+            },
+            {
+              label: '安易',
+              to: 'docs/VPN软件/安易',
             }
           ],
         },

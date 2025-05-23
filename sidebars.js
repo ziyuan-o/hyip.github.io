@@ -23,13 +23,23 @@ const sidebars = {
     
   },
   VPN软件:{
-    VPN: ["VPN软件/艾林克"
+    VPN: ["VPN软件/艾林克",
+          "VPN软件/安易"
     ]
     
-    
-
   },
-  
+  钱包:{
+    钱包: ["钱包/火币",
+    ],
+    atchange: [
+      "钱包/atchange/atchange注册",
+      "钱包/atchange/atchange兑换"
+    ],
+    payeer: [
+      "钱包/payeer/payeer注册"
+      
+    ]
+  }
 
 }
 
