@@ -21,8 +21,8 @@ keywords: [hyip, 高收益投资 ]
 6. 预期盈利能力 - 每月 30% 起
 
 
-### [注册Aitimart](https://aitimart.live/new-account/?code=1344696906597400)
-#### [注册链接(点击我)](https://aitimart.live/new-account/?code=1344696906597400)
+### [注册Aitimart](https://aitimart.com/new-account/?code=1344696906597400)
+#### [注册链接(点击我)](https://aitimart.com/new-account/?code=1344696906597400)
 1. 电脑版
 ![](https://pic.imgdb.cn/item/66f1ee4df21886ccc0410538.jpg)
 ![](https://pic.imgdb.cn/item/66f1fe9df21886ccc049ce01.jpg)
