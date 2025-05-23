@@ -126,6 +126,10 @@ const config = {
           title: '联系博客',
           items: [
             {
+              label: 'telegram:@hyip_cn',
+              to: 'https://t.me/hyip_cn',
+            },
+            {
               label: 'QQ群:1035024431',
               to: '/',
             },
