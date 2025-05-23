@@ -56,7 +56,7 @@ const config = {
          
         },
         {
-          to: "docs/投资项目/优质项目/aitimart",
+          to: "docs/投资项目/投资项目-intro",
           label: "投资项目",
           position: "right",
         },
