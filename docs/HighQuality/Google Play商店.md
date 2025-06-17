@@ -7,7 +7,7 @@ authors: HYIP
 tags: [软件, 谷歌商店]
 keywords: [软件, 谷歌商店]
 ---
-## Googleplay官方访问(需要开启`VPN`):
+## Googleplay官方访问(需要开启[`VPN`](../VPN/vpn-Elink)):
 [谷歌商店访问链接](https://play.google.com)
 
 ![Googleplay](./GooglePlay.assets/image-GooglePlay.jpg)

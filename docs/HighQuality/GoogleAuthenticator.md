@@ -7,7 +7,7 @@ authors: HYIP
 tags: [软件, 谷歌商店]
 keywords: [软件, 谷歌商店]
 ---
-## GoogleAuthenticator官方访问(需要开启`VPN`):
+## GoogleAuthenticator官方访问(需要开启[`VPN`](../VPN/vpn-Elink)):
 [谷歌身份验证器访问链接](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 
 ![GoogleAuthenticator](./GoogleAuthenticator.assets/unnamed.webp)

@@ -77,12 +77,12 @@ function Hero() {
         <animated.div style={trails[0]} className={styles.hero_text}>
           <Translate id="homepage.hero.greet">你好! 我是</Translate>
           <span className={styles.intro__name}>
-            <Translate id="homepage.hero.name">鲸落</Translate>
+            <Translate id="homepage.hero.name">HYIP博客</Translate>
           </span>
         </animated.div>
         <animated.p style={trails[1]}>
           <Translate id="homepage.hero.text">
-            {`在这里我会分享各类技术栈所遇到问题与解决方案，同时还有我的学习笔记，并希望我的开发经历对你有所启发。`}
+            {`HYIP高收益投资！高收益高风险，投资需谨慎。`}
           </Translate>
           <br />
           <br />
@@ -90,18 +90,18 @@ function Hero() {
             id="homepage.hero.look"
             values={{
               note: (
-                <Link to="/docs/skill">
-                  <Translate id="hompage.hero.note">技术笔记</Translate>
+                <Link to="/docs/Newcomers">
+                  <Translate id="hompage.hero.note">新人必看</Translate>
                 </Link>
               ),
               project: (
-                <Link to="/project">
-                  <Translate id="hompage.hero.project">实战项目</Translate>
+                <Link to="/docs/HighQuality">
+                  <Translate id="hompage.hero.project">优质项目</Translate>
                 </Link>
               ),
               link: (
-                <Link to="/resource">
-                  <Translate id="hompage.hero.link">资源导航</Translate>
+                <Link to="/docs/wallet/huobi/wallet-Huobi">
+                  <Translate id="hompage.hero.link">火币</Translate>
                 </Link>
               ),
               idea: (

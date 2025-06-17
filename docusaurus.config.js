@@ -3,14 +3,14 @@ const path = require('path')
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   onBrokenLinks: 'ignore',
-  title: '鲸落',
+  title: 'HYIP博客',
   titleDelimiter: '-',
   url: 'http://xiaojunnan.cn',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'jl',
   projectName: 'blog',
-  tagline: '记录所学知识，领略编程之美',
+  tagline: '高收益,高风险',
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
     image: 'img/logo.png',
@@ -22,15 +22,15 @@ const config = {
     metadata: [
       {
         name: 'keywords',
-        content: '鲸落',
+        content: 'HYIP博客',
       },
       {
         name: 'keywords',
-        content: 'blog, javascript, typescript, node, react, vue, web',
+        content: 'HYIP, 钱包, VPN, 优质, 意向, 观望',
       },
       {
         name: 'keywords',
-        content: '编程爱好者, Web开发者',
+        content: '高收益, 高风险',
       },
     ],
     docs: {
@@ -39,53 +39,23 @@ const config = {
       },
     },
     navbar: {
-      title: '鲸落',
+      title: 'HYIP博客',
       logo: {
-        alt: '鲸落',
+        alt: 'HYIP博客',
         src: 'img/logo.webp',
         srcDark: 'img/logo.webp',
       },
       hideOnScroll: true,
       items: [
         {
-          label: '学习',
+          to: '/',
+          label: '首页',
           position: 'right',
-          items: [
-            {
-              label: '笔记',
-              to: 'docs/skill',
-            },
-            {
-              label: '思考',
-              to: 'docs/thing',
-            },
-            {
-              label: '使用',
-              to: 'docs/use',
-            },
-            {
-              label: '系列',
-              to: 'docs/series',
-            },
-          ],
         },
         {
-          label: '生活',
+          label: '新人必看',
           position: 'right',
-          items: [
-            {
-              label: '爱好',
-              to: 'docs/hobby',
-            },
-            {
-              label: '总结',
-              to: 'docs/summarize',
-            },
-            // {
-            //   label: 'vercel',
-            //   to: 'https://vercel.com/',
-            // },
-          ],
+          to: 'docs/Newcomers',
         },
         {
           label: '投资项目',
@@ -95,97 +65,109 @@ const config = {
               label: '优质',
               to: 'docs/HighQuality',
             },
-          
+            {
+              label: '审核',
+              to: 'docs/Audit',
+            },
           ],
         },
-        // {
-        //   label: '导航',
-        //   position: 'right',
-        //   to: 'resource',
-        // },
-        {
-          label: '项目',
+       {
+          label: '钱包',
           position: 'right',
-          to: 'project',
+          to: 'docs/wallet',
         },
-        {
-          label: '归档',
-          position: 'right',
-          to: 'archive',
+       {
+          to: "docs/VPN",
+          label: "VPN软件",
+          position: "right",
         },
-        // {
-        //   type: 'localeDropdown',//中文英文
-        //   position: 'right',
-        // },
       ],
     },
     footer: {
       style: 'dark',
       links: [
         {
-          title: '学习',
+          title: '新人必看',
           items: [
             {
-              label: '标签',
-              to: 'tags',
+              label: '常见问题',
+              to: 'docs/Newcomers/hyip-question',
             },
             {
-              label: '归档',
-              to: 'archive',
+              label: '从哪里开始',
+              to: 'docs/Newcomers/hyip-start',
             },
             {
-              label: '学习笔记',
-              to: 'docs/skill',
+              label: '投资词典',
+              to: 'docs/Newcomers/hyip-dictionary',
             },
             {
-              label: '实战项目',
-              to: 'project',
+              label: '投资的金科玉律',
+              to: 'docs/Newcomers/hyip-invest',
+            },
+          ]
+        },
+        {
+          title: '投资项目',
+          items: [
+            {
+              label: '优质项目',
+              to: 'docs/HighQuality'
+            },
+           {
+              label: '审核项目',
+              to: 'docs/Audit'
+            },
+            
+          ],
+        },
+        {
+          title: 'VPN软件',
+          items: [
+            {
+              label: '艾林克',
+              to: 'docs/VPN/vpn-Elink',
+            },
+            {
+              label: '安易',
+              to: 'docs/VPN/vpn-Easy',
             }
           ],
         },
         {
-          title: '社交媒体',
+          title: '联系博客',
           items: [
             {
-              label: '关于我',
-              to: '/about',
+              label: 'telegram:@hyip_cn',
+              to: 'https://t.me/hyip_cn',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/xiaojunnanya',
+              label: 'QQ群:1035024431',
+              to: 'https://qm.qq.com/q/kE8RlgDgxW',
             },
             {
-              label: '掘金',
-              href: 'https://juejin.cn/user/3633256370537165',
+              label: 'QQ:3975759714',
+              to: '/',
             },
             {
-              label: 'bilibili',
-              href: 'https://space.bilibili.com/629793289',
+              label: 'QQ频道:pd14273801',
+              to: 'https://pd.qq.com/s/4czx55qma',
             },
+           
           ],
         },
         {
-          title: '更多',
+          title: '友情链接',
           items: [
             {
-              label: '友链',
+              label: '鲸落',
               position: 'right',
-              to: 'friends',
-            },
-            {
-              label: '导航',
-              position: 'right',
-              to: 'resource',
-            },
-            {
-              label: 'Docusaurus',
-              position: 'right',
-              to: 'https://docusaurus.io/zh-CN/',
+              href: 'http://www.xiaojunnan.cn/',
             }
           ],
         },
       ],
-      copyright:  `Copyright © ${new Date().getFullYear()} 鲸落<p><a href="https://beian.miit.gov.cn" class="footer_lin">皖ICP备2023012012号</a></p>`,
+      copyright:  `Copyright © ${new Date().getFullYear()} HYIP博客<p><a href="https://beian.miit.gov.cn" class="footer_lin">都是网上收集的资源，如有侵权联系博主删除！</a></p>`,
     },
     prism: {
       theme: require('prism-react-renderer/themes/vsLight'),
@@ -253,7 +235,7 @@ const config = {
       tagName: 'meta',
       attributes: {
         name: 'description',
-        content: '鲸落的个人博客',
+        content: 'HYIP博客',
       },
     },
   ],
@@ -297,7 +279,7 @@ const config = {
         editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
           `https://github.com/xiaojunnanya/blog`,
         editLocalizedFiles: false,
-        blogDescription: '鲸落的个人博客',
+        blogDescription: 'HYIP博客',
         blogSidebarCount: 10,
         blogSidebarTitle: '最近更新',
         postsPerPage: 10,
@@ -306,8 +288,8 @@ const config = {
           defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
         feedOptions: {
           type: 'all',
-          title: '鲸落',
-          copyright: `Copyright © ${new Date().getFullYear()} 鲸落<p><a href="https://beian.miit.gov.cn" class="footer_lin">皖ICP备2023012012号</a></p>`,
+          title: 'HYIP',
+          copyright: `Copyright © ${new Date().getFullYear()} HYIP博客<p><a href="https://beian.miit.gov.cn" class="footer_lin">暂无</a></p>`,
         },
       },
     ],
