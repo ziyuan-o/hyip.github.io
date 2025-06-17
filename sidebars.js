@@ -59,25 +59,19 @@ const sidebars = {
   ],
   newcomers:[
     'Newcomers/newcomers-intro',
-    {
-      label: '新人必看',
-      type: 'category',
-      link: {
-        type: 'generated-index',
-      },
-      items: [
-        'Newcomers/hyip-start',
-        'Newcomers/hyip-skamopad',
-        'Newcomers/hyip-suitable',
-        'Newcomers/hyip-deposit',
-        'Newcomers/hyip-diversity',
-        'Newcomers/hyip-Strategy',
-        'Newcomers/hyip-dictionary',
-        'Newcomers/hyip-invest',
-        'Newcomers/hyip-project',
-        'Newcomers/hyip-question',
-      ]
-    },
+    'Newcomers/hyip-project',
+    'Newcomers/hyip-start',
+    
+    'Newcomers/hyip-suitable',
+    'Newcomers/hyip-diversity',
+    
+    'Newcomers/hyip-Strategy',
+    'Newcomers/hyip-dictionary',
+    'Newcomers/hyip-invest',
+    
+    'Newcomers/hyip-deposit',
+    'Newcomers/hyip-skamopad',
+    'Newcomers/hyip-question',
     
   ],
   wallet:[
