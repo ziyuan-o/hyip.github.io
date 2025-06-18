@@ -102,7 +102,7 @@ const config = {
               to: 'docs/Newcomers/hyip-dictionary',
             },
             {
-              label: '投资的金科玉律',
+              label: '投资的黄金法则',
               to: 'docs/Newcomers/hyip-invest',
             },
           ]
@@ -156,16 +156,7 @@ const config = {
            
           ],
         },
-        {
-          title: '友情链接',
-          items: [
-            {
-              label: '鲸落',
-              position: 'right',
-              href: 'http://www.xiaojunnan.cn/',
-            }
-          ],
-        },
+      
       ],
       copyright:  `Copyright © ${new Date().getFullYear()} HYIP博客<p><a href="https://beian.miit.gov.cn" class="footer_lin">都是网上收集的资源，如有侵权联系博主删除！</a></p>`,
     },
