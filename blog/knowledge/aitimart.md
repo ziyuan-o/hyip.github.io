@@ -1,6 +1,6 @@
 ---
 title: aitimart
-date: 2025-06-23
+date: 2025-06-21
 author: hyip
 author_title: HYIP博客
 author_image_url: /img/logo.png
@@ -35,7 +35,7 @@ keywords: [hyip, 高收益投资 ]
 ### [®️立即注册](https://aitimart.com/new-account/?code=1344696906597400)
 
 :::note
-
+### 博主投入:💲417
 [注册教程](../docs/HighQuality/aitimart/aitimart-register)
 [绑定谷歌验证器](../docs/HighQuality/aitimart/aitimart-Binding)
 [存款教程](../docs/HighQuality/aitimart/aitimart-deposit)
@@ -43,6 +43,10 @@ keywords: [hyip, 高收益投资 ]
 
 :::
 
+:::tip
+## HM指数：**6.64**
+
+:::
 
 
 -----------------------------
