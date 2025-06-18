@@ -1,24 +1,39 @@
 ---
 id: selwix
 title: selwix
-date: 2025-08-17
+date: 2025-06-21
 sidebar_label: selwix
 authors: HYIP
-tags: [HYIP, 审核, 观望]
-keywords: [HYIP, 审核, 观望]
+tags: [HYIP, 项目, 小资金投资测试]
+keywords: [HYIP, 项目, 小资金投资测试]
 ---
+:::note
+
+### 博主投入:💲15
+
+:::
 
 :::tip
+## [HM指数](../Newcomers/hyip-hm)：**6.49**
+HM指数是什么？   
+[点击我了解](../Newcomers/hyip-hm)
+:::
 
+:::info
 ### 开始日期：2024 年 6 月 17 日
-计划: 每天 1.5%，持续 14 天  
-最低存款:15美元  
-最低支出: -
-付款类型: 手动（最多 72 小时） 
-支付系统: Bitcoin, Ethereum, Litecoin, DashCoin, BitcoinCash, Ripple, Dogecoin, Tether, Tron, NixMoney, ePayCore, Binance Coin  
+计划: 每天 1.5%，持续 14 天    
+
+最低存款:15美元    
+
+最低支出: -    
+
+付款类型: 手动（最多 72 小时）   
+
+支付系统: Bitcoin, Ethereum, Litecoin, DashCoin, BitcoinCash, Ripple, Dogecoin, Tether, Tron, NixMoney, ePayCore, Binance Coin    
 
 [®️立即访问](https://selwix.cc/?ref=sel549955)
 :::
+
 
 ![image-selwix01](selwix.assets/image-selwix01.png)
 ![image-selwix02](selwix.assets/image-selwix02.png)

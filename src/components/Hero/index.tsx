@@ -151,10 +151,9 @@ export function SocialLinks({ ...prop }) {
   const themeConfig = useThemeConfig() as ThemeConfig
 
   const socials = themeConfig.socials as {
-    github: string
+    
     twitter: string
-    juejin: string
-    csdn: string
+   
     qq: string
     wx: string
     cloudmusic: string
@@ -164,12 +163,8 @@ export function SocialLinks({ ...prop }) {
 
   return (
     <animated.div className={styles.social__links} {...prop}>
-      <a href={socials.github} target="_blank">
-        <Icon icon="ri:github-line" />
-      </a>
-      <a href={socials.juejin} target="_blank">
-        <JuejinIcon />
-      </a>
+      
+      
       <a href={socials.qq} target="_blank">
         <Icon icon="ri:qq-line" />
       </a>

@@ -1,6 +1,7 @@
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 
 const sidebars = {
+  //优质项目
   highquality: [
     'HighQuality/excellent-intro',
     'HighQuality/Googleplay',
@@ -22,8 +23,12 @@ const sidebars = {
       ],
     },
   ],
+
+  //审核中:有意向，观望中
   Audit: [
     'Audit/Audit-intro',
+
+    //有意向
    {
       label: '有意向',
       type: 'category',
@@ -32,14 +37,11 @@ const sidebars = {
       },
       items: [
         'Audit/intention/nftzark',
-        'Audit/intention/mealmania',
-        'Audit/intention/nft-pets',
-        'Audit/intention/bitcapitalmine',
-        'Audit/intention/tensorium',
-        'Audit/intention/frog-wallet',
-        'Audit/intention/aerogame',
+        
       ],
     },
+
+    //观望中
    {
       label: '观望中',
       type: 'category',
@@ -47,33 +49,52 @@ const sidebars = {
         type: 'generated-index',
       },
       items: [
-        'Audit/WaitAndSee/selwix',
-        'Audit/WaitAndSee/exvalto',
         'Audit/WaitAndSee/calvadon',
         'Audit/WaitAndSee/empare',
-        'Audit/WaitAndSee/bittmine',
         'Audit/WaitAndSee/btse888usdt',
         'Audit/WaitAndSee/luckgalaxy',
+        'Audit/WaitAndSee/denzo',
+        'Audit/WaitAndSee/sweetworld',
+        'Audit/WaitAndSee/nft-pets',
       ],
     },
   ],
+
+  //小资金投资测试
+  test: [
+    'test/test-intro',
+    'test/selwix',
+    'test/mealmania',
+    'test/tensorium',
+    'test/frog-wallet',
+    'test/exvalto',
+  ],
+
+  //已经跑路倒闭的项目
+  Runaway: [
+    'Runaway/Runaway-intro',
+    'Runaway/bitcapitalmine',
+    'Runaway/aerogame',
+    'Runaway/bittmine',
+  ],
+
+  //新人必看
   newcomers:[
     'Newcomers/newcomers-intro',
     'Newcomers/hyip-project',
     'Newcomers/hyip-start',
-    
     'Newcomers/hyip-suitable',
     'Newcomers/hyip-diversity',
-    
     'Newcomers/hyip-Strategy',
     'Newcomers/hyip-dictionary',
     'Newcomers/hyip-invest',
-    
     'Newcomers/hyip-deposit',
     'Newcomers/hyip-skamopad',
     'Newcomers/hyip-question',
-    
+    'Newcomers/hyip-hm',
   ],
+
+  //电子钱包
   wallet:[
     'wallet/wallet-intro',
     {
@@ -99,6 +120,8 @@ const sidebars = {
       ]
     }
   ],
+
+  //翻墙软件
   vpn: [
     'VPN/vpn-what',
     "VPN/vpn-Elink",

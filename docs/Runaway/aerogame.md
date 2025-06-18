@@ -1,12 +1,22 @@
 ---
 id: aerogame
 title: aerogame
-date: 2025-08-17
+date: 2025-06-17
 sidebar_label: aerogame
 authors: HYIP
-tags: [HYIP, 审核, 意向]
-keywords: [HYIP, 审核, 意向]
+tags: [HYIP, 已跑路]
+keywords: [HYIP, 已跑路]
 ---
+
+
+:::warning
+
+### 诈骗日期：2025 年 6 月 17 日 - 已实施 9 天
+
+
+:::
+
+
 
 :::tip
 

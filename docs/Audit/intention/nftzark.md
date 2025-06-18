@@ -1,7 +1,7 @@
 ---
 id: nftzark
 title: nftzark
-date: 2025-08-17
+date: 2025-06-21
 sidebar_label: nftzark
 authors: HYIP
 tags: [HYIP, 审核, 意向]
@@ -9,12 +9,22 @@ keywords: [HYIP, 审核, 意向]
 ---
 
 :::tip
+## [HM指数](hyip-hm)：**2.00**
+HM指数是什么？   
+[点击我了解](hyip-hm)
+:::
+
+:::info
 
 ### 开始日期：2025 年 6 月 15 日
 计划: 24小时后105%   
+
 最低存款: 50 卢布   
+
 最低支出: 10 卢布   
+
 付款类型: 立即的  
+
 支付系统: Payeer  
 
 [®️立即访问](https://nftzark.space/?ref=nf549955)

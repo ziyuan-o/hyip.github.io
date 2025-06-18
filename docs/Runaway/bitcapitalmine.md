@@ -1,16 +1,25 @@
 ---
 id: bitcapitalmine
 title: bitcapitalmine
-date: 2025-08-17
+date: 2025-06-17
 sidebar_label: bitcapitalmine
 authors: HYIP
-tags: [HYIP, 审核, 意向]
-keywords: [HYIP, 审核, 意向]
+tags: [HYIP, 已跑路]
+keywords: [HYIP, 已跑路]
 ---
+
+:::warning
+
+### 诈骗日期：2025 年 6 月 17 日 - 已实施 95 天
+
+
+:::
+
 
 :::tip
 
 ### 开始日期：2025 年 3月14日
+
 计划: 终身每天支付 0.3%；
 最低存款: 1美元 
 最低支出: $0.1 - Epaycore；其他 - $10 
@@ -19,6 +28,8 @@ keywords: [HYIP, 审核, 意向]
 
 [®️立即访问](https://bitcapitalmine.com/?ref=bit549955)
 :::
+
+
 
 ![bitcapitalmine01](bitcapitalmine.assets/image-bitcapitalmine01.png)
 ![bitcapitalmine02](bitcapitalmine.assets/image-bitcapitalmine02.png)

@@ -1,12 +1,21 @@
 ---
 id: bittmine
 title: bittmine
-date: 2025-08-17
+date: 2025-06-17
 sidebar_label: bittmine
 authors: HYIP
-tags: [HYIP, 审核, 观望]
-keywords: [HYIP, 审核, 观望]
+tags: [HYIP, 已跑路]
+keywords: [HYIP, 已跑路]
 ---
+
+
+:::warning
+
+### 诈骗日期：2025年6月18日 - 已实施14天
+
+
+:::
+
 
 :::tip
 

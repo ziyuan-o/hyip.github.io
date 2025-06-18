@@ -66,8 +66,16 @@ const config = {
               to: 'docs/HighQuality',
             },
             {
+              label: '小资金测试',
+              to: 'docs/test',
+            },
+            {
               label: '审核',
               to: 'docs/Audit',
+            },
+            {
+              label: '已跑路',
+              to: 'docs/Runaway',
             },
           ],
         },
@@ -212,11 +220,10 @@ const config = {
       playgroundPosition: 'top',
     },
     socials: {
-      github: 'https://github.com/xiaojunnanya',
-      juejin: 'https://juejin.cn/user/3633256370537165',
+     
       // twitter: 'https://twitter.com',
       // csdn: 'https://blog.csdn.net',
-      // qq: 'https://wpa.qq.com/msgrd?v=3&amp;uin=911993023&amp;site=qq',
+      //qq: 'https://wpa.qq.com/msgrd?v=3&amp;uin=3975759714&amp;site=qq',
       // zhihu: 'https://www.zhihu.com/people',
       // cloudmusic: 'https://music.163.com/#/user/home?id=1333010742',
     },

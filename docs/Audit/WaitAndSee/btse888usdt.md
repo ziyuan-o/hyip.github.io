@@ -1,14 +1,20 @@
 ---
 id: btse888usdt
 title: btse888usdt
-date: 2025-08-17
+date: 2025-06-21
 sidebar_label: btse888usdt
 authors: HYIP
 tags: [HYIP, 审核, 观望]
 keywords: [HYIP, 审核, 观望]
 ---
 
+
 :::tip
+## [HM指数]：**3.10**
+
+:::
+
+:::info
 
 ### 开始日期：2025 年 6 月 4 日
 计划: 每天 10% - 20%，持续 180 天

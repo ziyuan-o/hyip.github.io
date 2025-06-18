@@ -1,20 +1,38 @@
 ---
 id: frog-wallet
 title: frog-wallet
-date: 2025-08-17
+date: 2025-06-21
 sidebar_label: frog-wallet
 authors: HYIP
-tags: [HYIP, 审核, 意向]
-keywords: [HYIP, 审核, 意向]
+tags: [HYIP, 项目, 小资金投资测试]
+keywords: [HYIP, 项目, 小资金投资测试]
 ---
 
+
+:::note
+### 博主投入:💲10
+:::
+
+
 :::tip
+## [HM指数](../Newcomers/hyip-hm)：**3.78**
+HM指数是什么？   
+[点击我了解](../Newcomers/hyip-hm)
+:::
+
+
+
+:::info
 
 ### 开始日期：2025 年 6 月 3 日
-计划: 每日 0.1% - 0.3% - 0.5%
-最低存款: 10美元 
-最低支出: -
+计划: 每日 0.1% - 0.3% - 0.5%    
+
+最低存款: 10美元    
+
+最低支出: -    
+
 付款类型: 手动的    
+
 支付系统: Bitcoin, Ethereum, Litecoin, Tron, Ton
 
 [®️立即访问](https://frogs-wallet.biz/?id=11209489)

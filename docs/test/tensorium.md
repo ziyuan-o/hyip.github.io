@@ -1,21 +1,38 @@
 ---
 id: tensorium
 title: tensorium
-date: 2025-08-17
+date: 2025-06-21
 sidebar_label: tensorium
 authors: HYIP
-tags: [HYIP, 审核, 意向]
-keywords: [HYIP, 审核, 意向]
+tags: [HYIP, 项目, 小资金投资测试]
+keywords: [HYIP, 项目, 小资金投资测试]
 ---
 
+:::note
+### 博主投入:💲20 
+:::
+
+
 :::tip
+## [HM指数](../Newcomers/hyip-hm)：**5.79**
+HM指数是什么？   
+[点击我了解](../Newcomers/hyip-hm)
+:::
+
+
+
+:::info
 
 ### 开始日期：2025年2月17日
-计划: 每日 1.2% 共 20 天（押金返还
-最低存款: 20美元 
-最低支出: 1.00 USDT/USDC BEP20、50.00 USDT TRC20、0.015 ETH、0.01 LTC、0.05 SOL、0.001 BTC、0.005 BNB、20.00 TRX 
-付款类型: 立即的    
-支付系统: Bitcoin, Ethereum, Litecoin, Tether, Tron, Binance Coin
+计划: 每日 1.2% 共 20 天（押金返还  
+
+最低存款: 20美元    
+
+最低支出: 1.00 USDT/USDC BEP20、50.00 USDT TRC20、0.015 ETH、0.01 LTC、0.05 SOL、0.001 BTC、0.005 BNB、20.00 TRX    
+
+付款类型: 立即的      
+
+支付系统: Bitcoin, Ethereum, Litecoin, Tether, Tron, Binance Coin   
 
 [®️立即访问](https://tensorium.ai/?aff=ten549955)
 :::
