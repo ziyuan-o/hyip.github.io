@@ -1,12 +1,19 @@
 ---
 id: nft-pets
 title: nft-pets
-date: 2025-08-17
+date: 2025-06-21
 sidebar_label: nft-pets
 authors: HYIP
-tags: [HYIP, 审核, 观望中]
-keywords: [HYIP, 审核, 观望中]
+tags: [HYIP, 已跑路]
+keywords: [HYIP, 已跑路]
 ---
+
+:::warning
+
+### 诈骗日期：2025年6月18日 - 已实施6天
+
+
+:::
 
 :::tip
 

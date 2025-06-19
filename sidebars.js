@@ -63,7 +63,7 @@ const sidebars = {
         'Audit/WaitAndSee/luckgalaxy',
         'Audit/WaitAndSee/denzo',
         'Audit/WaitAndSee/sweetworld',
-        'Audit/WaitAndSee/nft-pets',
+        
       ],
     },
   ],
@@ -84,6 +84,7 @@ const sidebars = {
     'Runaway/bitcapitalmine',
     'Runaway/aerogame',
     'Runaway/bittmine',
+    'Runaway/nft-pets',
   ],
 
   //新人必看
