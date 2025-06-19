@@ -14,7 +14,7 @@ import { Icon } from '@iconify/react'
 
 import styles from './styles.module.scss'
 
-import video from '../../../static/video/1.mp4'
+import video from '../../../static/video/数据挖掘.mp4'
 
 function Hero() {
   const trails = useTrail(4, {
@@ -77,12 +77,12 @@ function Hero() {
         <animated.div style={trails[0]} className={styles.hero_text}>
           <Translate id="homepage.hero.greet">你好! 我是</Translate>
           <span className={styles.intro__name}>
-            <Translate id="homepage.hero.name">HYIP博客</Translate>
+            <Translate id="homepage.hero.name">XB博客</Translate>
           </span>
         </animated.div>
         <animated.p style={trails[1]}>
           <Translate id="homepage.hero.text">
-            {`HYIP高收益投资！高收益高风险，投资需谨慎。`}
+            {`市面上大多数都是广告太多,体验感差。本站纯绿色，不放广告,体验感好。`}
           </Translate>
           <br />
           <br />
@@ -90,23 +90,23 @@ function Hero() {
             id="homepage.hero.look"
             values={{
               note: (
-                <Link to="/docs/Newcomers">
-                  <Translate id="hompage.hero.note">新人必看</Translate>
+                <Link to="docs/OnlineVideo">
+                  <Translate id="hompage.hero.note">在线视频</Translate>
                 </Link>
               ),
               project: (
-                <Link to="/docs/HighQuality">
-                  <Translate id="hompage.hero.project">优质项目</Translate>
+                <Link to="docs/OnlineVideo/Anchor/OnlineVideo-Anchor">
+                  <Translate id="hompage.hero.project">网红主播</Translate>
                 </Link>
               ),
               link: (
-                <Link to="/docs/wallet/huobi/wallet-Huobi">
-                  <Translate id="hompage.hero.link">火币</Translate>
+                <Link to="docs/daohang">
+                  <Translate id="hompage.hero.link">导航站</Translate>
                 </Link>
               ),
               idea: (
-                <Link to="/tags/随笔">
-                  <Translate id="hompage.hero.idea">想法感悟</Translate>
+                <Link to="docs/休闲专区/黄色视频/yellow-video">
+                  <Translate id="hompage.hero.idea">黄色视频</Translate>
                 </Link>
               ),
             }}
@@ -151,9 +151,10 @@ export function SocialLinks({ ...prop }) {
   const themeConfig = useThemeConfig() as ThemeConfig
 
   const socials = themeConfig.socials as {
-    
+    github: string
     twitter: string
-   
+    juejin: string
+    csdn: string
     qq: string
     wx: string
     cloudmusic: string
@@ -163,8 +164,12 @@ export function SocialLinks({ ...prop }) {
 
   return (
     <animated.div className={styles.social__links} {...prop}>
-      
-      
+      <a href={socials.github} target="_blank">
+        <Icon icon="ri:github-line" />
+      </a>
+      <a href={socials.juejin} target="_blank">
+        <JuejinIcon />
+      </a>
       <a href={socials.qq} target="_blank">
         <Icon icon="ri:qq-line" />
       </a>

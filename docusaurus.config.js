@@ -3,34 +3,31 @@ const path = require('path')
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   onBrokenLinks: 'ignore',
-  title: 'HYIP博客',
+  title: 'XB博客',
   titleDelimiter: '-',
-  url: 'http://xiaojunnan.cn',
+  url: 'http://www.zy-wan.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'jl',
   projectName: 'blog',
-  tagline: '高收益,高风险',
+  tagline: '挖掘数据爱好者',
   /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   themeConfig: {
     image: 'img/logo.png',
     colorMode: {
-      defaultMode: 'light',
+      defaultMode: 'dark',
       disableSwitch: false,
       respectPrefersColorScheme: false,
     },
     metadata: [
       {
         name: 'keywords',
-        content: 'HYIP博客',
+        content: 'XB博客',
       },
+      
       {
         name: 'keywords',
-        content: 'HYIP, 钱包, VPN, 优质, 意向, 观望',
-      },
-      {
-        name: 'keywords',
-        content: '高收益, 高风险',
+        content: '挖掘数据爱好者',
       },
     ],
     docs: {
@@ -39,9 +36,9 @@ const config = {
       },
     },
     navbar: {
-      title: 'HYIP博客',
+      title: 'XB博客',
       logo: {
-        alt: 'HYIP博客',
+        alt: 'XB博客',
         src: 'img/logo.webp',
         srcDark: 'img/logo.webp',
       },
@@ -53,120 +50,113 @@ const config = {
           position: 'right',
         },
         {
-          label: '新人必看',
-          position: 'right',
-          to: 'docs/Newcomers',
+          to: 'docs/OnlineVideo',
+          label: "在线视频",
+          position: "right",
+          
         },
         {
-          label: '投资项目',
-          position: 'right',
+          to: 'docs/OnlineVideo/Anchor/OnlineVideo-Anchor',
+          label: "网红主播",
+          position: "right",
+          
+        },
+        {
+          to: 'docs/OnlineVideo/OnlineVideo-Level3',
+          label: "三级伦理",
+          position: "right",
+          
+        },
+        {
+          to: 'docs/daohang',
+          label: "导航站",
+          position: "right",
+          
+        },
+        {
+          label: "其它",
+          position: "right",
           items: [
             {
-              label: '优质',
-              to: 'docs/HighQuality',
+              label: 'HYIP',
+              to: 'docs/qita/qita-hyip',
             },
             {
-              label: '小资金测试',
-              to: 'docs/test',
+              label: 'vpn软件',
+              to: 'docs/vpn',
             },
             {
-              label: '审核',
-              to: 'docs/Audit',
+              label: 'VIP解析',
+              to: 'docs/qita/vip-video',
             },
             {
-              label: '已跑路',
-              to: 'docs/Runaway',
+              label: 'm3u8播放器',
+              to: 'docs/qita/M3U8-video',
             },
+            
+            
           ],
-        },
-       {
-          label: '钱包',
-          position: 'right',
-          to: 'docs/wallet',
-        },
-       {
-          to: "docs/VPN",
-          label: "VPN软件",
-          position: "right",
+          
         },
       ],
     },
     footer: {
       style: 'dark',
       links: [
+        
         {
-          title: '新人必看',
+          title: '在线视频',
           items: [
             {
-              label: '常见问题',
-              to: 'docs/Newcomers/hyip-question',
+              label: '网红主播',
+              to: 'docs/OnlineVideo/Anchor/OnlineVideo-Anchor',
             },
             {
-              label: '从哪里开始',
-              to: 'docs/Newcomers/hyip-start',
+              label: '国产自拍',
+              to: 'docs/OnlineVideo/OnlineVideo-Selfie',
             },
             {
-              label: '投资词典',
-              to: 'docs/Newcomers/hyip-dictionary',
+              label: '探花系列',
+              to: 'docs/OnlineVideo/OnlineVideo-Tanhua',
             },
             {
-              label: '投资的黄金法则',
-              to: 'docs/Newcomers/hyip-invest',
+              label: '三级伦理',
+              to: 'docs/OnlineVideo/OnlineVideo-Level3',
             },
           ]
         },
+        
         {
-          title: '投资项目',
+          title: '其它',
           items: [
             {
-              label: '优质项目',
-              to: 'docs/HighQuality'
+              label: 'HYIP',
+              to: 'docs/qita/qita-hyip',
             },
-           {
-              label: '审核项目',
-              to: 'docs/Audit'
+            {
+              label: 'vpn软件',
+              to: 'docs/VPN/vpn-what',
             },
-            
+            {
+              label: 'VIP视频解析',
+              to: 'docs/qita/vip-video',
+            },
           ],
         },
         {
-          title: 'VPN软件',
+          title: '导航站',
           items: [
             {
-              label: '艾林克',
-              to: 'docs/VPN/vpn-Elink',
-            },
-            {
-              label: '安易',
-              to: 'docs/VPN/vpn-Easy',
-            }
-          ],
-        },
-        {
-          title: '联系博客',
-          items: [
-            {
-              label: 'telegram:@hyip_cn',
-              to: 'https://t.me/hyip_cn',
-            },
-            {
-              label: 'QQ群:1035024431',
-              to: 'https://qm.qq.com/q/kE8RlgDgxW',
-            },
-            {
-              label: 'QQ:3975759714',
-              to: '/',
-            },
-            {
-              label: 'QQ频道:pd14273801',
-              to: 'https://pd.qq.com/s/4czx55qma',
+              label: '导航站',
+              to: 'docs/daohang/daohang-intro',
             },
            
           ],
         },
-      
+        
+        
       ],
-      copyright:  `Copyright © ${new Date().getFullYear()} HYIP博客<p><a href="https://beian.miit.gov.cn" class="footer_lin">都是网上收集的资源，如有侵权联系博主删除！</a></p>`,
+      copyright:  `Copyright © ${new Date().getFullYear()} XB博客<p><a href="/" class="footer_lin">都是网上收集的资源，如有侵权联系博主删除！</a></p>`,
     },
     prism: {
       theme: require('prism-react-renderer/themes/vsLight'),
@@ -203,7 +193,7 @@ const config = {
       config: {},
     },
     matomo: {
-      matomoUrl: 'http://xiaojunnan.cn',
+      matomoUrl: 'http://www.zy-wan.com',
       siteId: '1',
       phpLoader: 'matomo.php',
       jsLoader: 'matomo.js',
@@ -220,10 +210,11 @@ const config = {
       playgroundPosition: 'top',
     },
     socials: {
-     
+      // github: 'https://github.com/xiaojunnanya',
+      // juejin: 'https://juejin.cn/user/3633256370537165',
       // twitter: 'https://twitter.com',
       // csdn: 'https://blog.csdn.net',
-      //qq: 'https://wpa.qq.com/msgrd?v=3&amp;uin=3975759714&amp;site=qq',
+      // qq: 'https://wpa.qq.com/msgrd?v=3&amp;uin=3812263050&amp;site=qq',
       // zhihu: 'https://www.zhihu.com/people',
       // cloudmusic: 'https://music.163.com/#/user/home?id=1333010742',
     },
@@ -233,7 +224,7 @@ const config = {
       tagName: 'meta',
       attributes: {
         name: 'description',
-        content: 'HYIP博客',
+        content: 'XB博客',
       },
     },
   ],
@@ -277,7 +268,7 @@ const config = {
         editUrl: ({ locale, blogDirPath, blogPath, permalink }) =>
           `https://github.com/xiaojunnanya/blog`,
         editLocalizedFiles: false,
-        blogDescription: 'HYIP博客',
+        blogDescription: 'XB博客',
         blogSidebarCount: 10,
         blogSidebarTitle: '最近更新',
         postsPerPage: 10,
@@ -286,8 +277,8 @@ const config = {
           defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
         feedOptions: {
           type: 'all',
-          title: 'HYIP',
-          copyright: `Copyright © ${new Date().getFullYear()} HYIP博客<p><a href="https://beian.miit.gov.cn" class="footer_lin">暂无</a></p>`,
+          title: 'XB博客',
+          copyright: `Copyright © ${new Date().getFullYear()} XB博客<p><a href="/" class="footer_lin">暂无</a></p>`,
         },
       },
     ],

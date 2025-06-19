@@ -1,9 +1,2 @@
-## 目录
-
-## HYIP博客
-
-
-
-
-
-
+## 资源挖掘博客
+[zy-wa.com](https://www.zy-wa.com/)

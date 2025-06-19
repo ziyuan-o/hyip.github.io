@@ -12,12 +12,12 @@
     "message": "Hello! 我是",
     "description": "hero greet"
   },
-  "鲸落": {
-    "message": "鲸落",
+  "资源挖掘博客": {
+    "message": "资源挖掘博客",
     "description": "my name"
   },
   "homepage.hero.text": {
-    "message": "在这里我会分享各类技术栈所遇到问题与解决方案，带你了解最新的技术栈以及实际开发中如何应用，并希望我的开发经历对你有所启发。",
+    "message": "现在很多资源都收费，对于馕中羞涩的伙伴来说能免费的最好！在这里我会免费分享各类资源。",
     "description": "hero text"
   },
   "homepage.hero.look":{

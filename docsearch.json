@@ -1,5 +1,5 @@
 {
-  "index_name": "HYIP博客",
+  "index_name": "XB博客",
   "start_urls": [""],
   "sitemap_urls": [""],
   "selectors": {

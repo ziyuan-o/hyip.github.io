@@ -12,7 +12,7 @@ keywords: [vpn, 讲解]
 ![](https://www.fortinet.com/content/dam/fortinet/images/cyberglossary/vpn-two-types.jpeg)
 
 
-<iframe src="https://go.screenpal.com/watch/cT1hiOn6SGX" width="560" height="315" frameborder="0" allowfullscreen scrolling="no" allow="autoplay;fullscreen"></iframe>
+<iframe src="https://go.screenpal.com/watch/cT1hiOn6SGX" width="460" height="315" frameborder="0" allowfullscreen scrolling="no" allow="autoplay;fullscreen"></iframe>
 
 ### VPN 含义：VPN 代表什么？
 VPN 是指虚拟专用网络掩盖您的互联网协议 （IP） 地址，通过公共 wi-fi 连接创建专用连接。VPN 是连接到任何公共互联网服务的用户的最佳隐私和匿名工具之一，因为它建立了安全和加密的连接。
