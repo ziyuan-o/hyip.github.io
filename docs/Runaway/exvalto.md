@@ -4,19 +4,20 @@ title: exvalto
 date: 2025-06-21
 sidebar_label: exvalto
 authors: HYIP
-tags: [HYIP, 项目, 小资金投资测试]
-keywords: [HYIP, 项目, 小资金投资测试]
+tags: [HYIP, 已跑路]
+keywords: [HYIP, 已跑路]
 ---
 
-:::note
-### 博主投入:💲30
+:::warning
+
+### 诈骗日期：2025年6月19日 - 已实施13天
+
+
 :::
 
-
 :::tip
-## [HM指数](../Newcomers/hyip-hm)：**5.36**
-HM指数是什么？   
-[点击我了解](../Newcomers/hyip-hm)
+## HM指数：**5.36**
+
 :::
 
 

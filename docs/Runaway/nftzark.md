@@ -4,14 +4,20 @@ title: nftzark
 date: 2025-06-21
 sidebar_label: nftzark
 authors: HYIP
-tags: [HYIP, 审核, 意向]
-keywords: [HYIP, 审核, 意向]
+tags: [HYIP, 已跑路]
+keywords: [HYIP, 已跑路]
 ---
+:::warning
+
+### 诈骗日期：2025 年 6 月 19 日 - 实施时间：4 天
+
+
+:::
 
 :::tip
-## [HM指数](hyip-hm)：**2.00**
-HM指数是什么？   
-[点击我了解](hyip-hm)
+## HM指数：**2.00**
+
+
 :::
 
 :::info

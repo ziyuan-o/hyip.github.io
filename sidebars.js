@@ -44,7 +44,7 @@ const sidebars = {
         type: 'generated-index',
       },
       items: [
-        'Audit/intention/nftzark',
+        
         
       ],
     },
@@ -75,7 +75,7 @@ const sidebars = {
     'test/mealmania',
     'test/tensorium',
     'test/frog-wallet',
-    'test/exvalto',
+    
   ],
 
   //已经跑路倒闭的项目
@@ -85,6 +85,8 @@ const sidebars = {
     'Runaway/aerogame',
     'Runaway/bittmine',
     'Runaway/nft-pets',
+    'Runaway/nftzark',
+    'Runaway/exvalto',
   ],
 
   //新人必看
